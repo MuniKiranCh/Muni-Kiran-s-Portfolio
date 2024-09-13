@@ -53,3 +53,29 @@
     background-color: #0056b3;
   }
   
+
+  /* Media queries for responsiveness */
+
+/* For screens with a maximum width of 768px (tablets and smaller) */
+@media (max-width: 768px) {
+  .contact-content {
+    flex-direction: column;
+  }
+  .contact-info {
+    margin-right: 0;
+  }
+  .contact-form {
+    margin-top: 20px;
+  }
+}
+
+/* For screens with a maximum width of 480px (mobile phones) */
+@media (max-width: 480px) {
+  .contact-form input, .contact-form textarea {
+    padding: 5px;
+  }
+  .contact-form button {
+    padding: 5px;
+    font-size: 0.8rem;
+  }
+}
