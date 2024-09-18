@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Muni Kiran's Portfolio.
-=======
 # Muni Kiran's Portfolio
->>>>>>> 7437777d4f25d43d0e024de84302a3bd5a5398b8
 
 ## Description
 
@@ -13,3 +9,4 @@ This repository contains the source code for my personal portfolio website. This
 - CSS
 - JavaScript
 
+<> (7437777d4f25d43d0e024de84302a3bd5a5398b8)
